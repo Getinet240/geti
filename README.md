@@ -1,1 +1,1 @@
-getinet is a student
+getinet is a student at umgc
